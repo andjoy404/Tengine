@@ -1,0 +1,5 @@
+wget http://tengine.taobao.org/download/tengine-2.1.1.tar.gz
+apt-get install gcc clang-3.5 tcc
+apt-get install build-essential
+apt-get install gcc
+apt-get install libssl-dev
